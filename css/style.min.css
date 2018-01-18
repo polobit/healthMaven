@@ -92,9 +92,9 @@ a:hover {
 .hero-text-heading,
 .probootstrap-hero h1 {
     font-size: 52px;
-    margin-bottom: 10px;
+    margin-bottom: 36px;
     margin-top: 0;
-    line-height: 64px;
+    line-height: 4px;
     color: #fff;
     font-weight: 300
 }
